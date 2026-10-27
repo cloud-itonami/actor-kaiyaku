@@ -1,6 +1,6 @@
 # kaiyaku 解約 — 縁切り (tie-severance) executor
 
-Canonical repository: `etzhayyim/actor-kaiyaku`. Kaiyaku is the governed
+Canonical repository: `cloud-itonami/actor-kaiyaku`. Kaiyaku is the governed
 service-tie severance organ of the Tamaki-centered Etzhayyim artificial
 organism. It prepares member-approved, own-account-only dry-run plans; Tamaki
 retains organism authority and no live cancellation bypasses member signature
